@@ -1,5 +1,5 @@
 {
-  "name": "hello-npm-ts",
+  "name": "@hueyh/hello-npm-ts",
   "version": "1.0.0",
   "description": "A typescript package",
   "main": "dist/index.js",
