@@ -1,6 +1,6 @@
 {
   "name": "@hueyh/hello-npm-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A typescript package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,7 +22,10 @@
     "type": "git",
     "url": "git+https://github.com/huihe/hello-npm.git"
   },
-  "keywords": ["npm", "typescript"],
+  "keywords": [
+    "npm",
+    "typescript"
+  ],
   "author": "H-H",
   "license": "ISC",
   "bugs": {
